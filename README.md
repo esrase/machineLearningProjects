@@ -1,4 +1,4 @@
-                                                                      Weather Forecast Project
+                                             Weather Forecast Project
 
 This project provides a comprehensive weather forecasting tool, utilizing historical climate data to predict various weather parameters. 
 The key components include data analysis, feature extraction, and prediction modeling. 
